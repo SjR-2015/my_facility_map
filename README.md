@@ -2,7 +2,7 @@
 
 さまざまな施設を地図上にマッピングして、みんなに広めよう！
 
-![image-20241208080751941](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20241208080751941.png)
+![image-20241208080751941](https://github.com/user-attachments/assets/840bf857-4fff-49d0-9faa-2a0fc6780300)
 
 ### ディレクトリ構成
 
@@ -63,9 +63,11 @@ my_facility_map/
 
 #### データの関連性について
 
-![image-20241208085444056](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20241208085444056.png)
 
-![image-20241208092321706](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20241208092321706.png)
+![image-20241208085444056](https://github.com/user-attachments/assets/d91326a1-d66a-4373-8bc0-52effc0cd609)
+
+
+![image-20241208092321706](https://github.com/user-attachments/assets/061bbaad-d2b1-4df5-8528-36661e3f6339)
 
 
 
